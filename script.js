@@ -154,7 +154,7 @@ whatsappBtn.addEventListener("click", () => {
 
   message += `%0ATotal: K${totalPriceEl.textContent}`;
 
-  const phone = "260XXXXXXXXX"; // PUT CLIENT NUMBER
+  const phone = "260771854391"; // PUT CLIENT NUMBER
   const url = `https://wa.me/${phone}?text=${message}`;
 
   window.open(url, "_blank");
