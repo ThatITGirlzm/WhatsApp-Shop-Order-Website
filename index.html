@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport"
+    content="width=device-width,
+    initial-scale=1.0" />
+    <title>Shop Order | Whatsapp</title>
+    <link rel="stylesheet"
+    href="style.css" />
+</head>
+<body>
+    <header class="header">
+        <h1 class="shop-name">Glow Fashion</h1>
+        <p class="tagline">Order easily on WhatsApp</p>
+    </header>
+    <main class="container">
+  <h2 class="section-title">Products</h2>
+
+  <!-- Categories -->
+  <div class="categories">
+    <button class="cat-btn active" data-cat="All">All</button>
+    <button class="cat-btn" data-cat="Tops">Tops</button>
+    <button class="cat-btn" data-cat="Dresses">Dresses</button>
+    <button class="cat-btn" data-cat="Shoes">Shoes</button>
+  </div>
+
+  <div id="product-list" class="product-grid"></div>
+</main>
+
+    <section class="cart">
+        <input
+  type="text"
+  id="customer-name"
+  placeholder="Your name"
+  class="customer-input"
+/>
+        <h3>Your Order</h3>
+        <ul id="cart-items"
+        class="cart-items"></ul>
+        <div class="cart-total">
+            <span>Total:</span>
+            <strong>K<span id="total-price">0</span></strong>
+        </div>
+        <button id="whatsapp-btn"
+        class="whatsapp-btn">Order on WhatsApp</button>
+        </section>
+        <script src="script.js"></script>
+</body>
+</html>
