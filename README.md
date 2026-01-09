@@ -40,7 +40,7 @@ This website helps:
 ---
 
 ## 🌍 Live Demo
-https://fluffy-platypus-ca4ed0.netlify.app/
+https://onlineorderwebsite.netlify.app/
 
 ## 👩🏽‍💻 Author
 
