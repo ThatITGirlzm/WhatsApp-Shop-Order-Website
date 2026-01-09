@@ -25,7 +25,7 @@
     name: "Heels",
     price: 350,
     category: "Shoes",
-    image: "sneakers.jpg"
+    image: "https://github.com/ThatITGirlzm/WhatsApp-Shop-Order-Website/blob/main/hoodie.jpeg"
   }
 ];
 
@@ -163,5 +163,6 @@ whatsappBtn.addEventListener("click", () => {
 // INIT
 
 renderProducts();
+
 
 
