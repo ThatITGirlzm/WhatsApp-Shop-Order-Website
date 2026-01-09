@@ -48,4 +48,4 @@ https://onlineorderwebsite.netlify.app/
 Aspiring Software Developer | Frontend Web Developer
 
 GitHub: https://github.com/ThatITGirlzm
-LinkedIn: https://linkedin.com/
+LinkedIn: https://www.linkedin.com/in/lombe-kufika?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
