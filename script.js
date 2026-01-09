@@ -4,28 +4,28 @@
     name: "Crop Top",
     price: 120,
     category: "Tops",
-    image: "top.jpeg"
+    image: "top.jpg"
   },
   {
     id: 2,
     name: "Hoodie",
     price: 250,
     category: "Tops",
-    image: "hoodie.jpeg"
+    image: "hoodie.jpg"
   },
   {
     id: 3,
     name: "Summer Dress",
     price: 300,
     category: "Dresses",
-    image: "dress.jpeg"
+    image: "dress.jeg"
   },
   {
     id: 4,
     name: "Heels",
     price: 350,
     category: "Shoes",
-    image: "sneakers.jpeg"
+    image: "sneakers.jpg"
   }
 ];
 
@@ -163,3 +163,4 @@ whatsappBtn.addEventListener("click", () => {
 // INIT
 
 renderProducts();
+
