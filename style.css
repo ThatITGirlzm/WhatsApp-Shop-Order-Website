@@ -195,3 +195,13 @@ body {
   border-radius: 10px;
 
 }
+.product-card button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 8px;
+  border: none;
+  border-radius: 10px;
+  background: black;
+  color: white;
+  font-size: 14px;
+
