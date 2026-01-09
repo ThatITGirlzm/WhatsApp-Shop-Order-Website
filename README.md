@@ -47,5 +47,5 @@ https://onlineorderwebsite.netlify.app/
 **Lombe Kufika**  
 Aspiring Software Developer | Frontend Web Developer
 
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-profile
+GitHub: https://github.com/ThatITGirlzm
+LinkedIn: https://linkedin.com/
