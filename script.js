@@ -18,14 +18,14 @@
     name: "Summer Dress",
     price: 300,
     category: "Dresses",
-    image: "dress.jeg"
+    image: "dress.jpeg"
   },
   {
     id: 4,
     name: "Heels",
     price: 350,
     category: "Shoes",
-    image: "https://github.com/ThatITGirlzm/WhatsApp-Shop-Order-Website/blob/main/hoodie.jpeg"
+    image: "sneakers.jpeg"
   }
 ];
 
@@ -163,6 +163,7 @@ whatsappBtn.addEventListener("click", () => {
 // INIT
 
 renderProducts();
+
 
 
 
