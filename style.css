@@ -109,11 +109,9 @@ body {
   margin-bottom: 6px;
 }
 
-.cart-items {
-  list-style: none;
-  max-height: 90px;
+..cart-items {
+  max-height: 120px;
   overflow-y: auto;
-  margin-bottom: 8px;
 }
 .cart-items li {
   font-size: 0.85rem;
@@ -209,6 +207,7 @@ body {
 .container {
   padding-bottom: 45vh;
 }
+
 
 
 
