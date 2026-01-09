@@ -206,6 +206,9 @@ body {
   border-radius: 10px;
   background: white;
 } 
+.container {
+  padding-bottom: 45vh;
+}
 
 
 
